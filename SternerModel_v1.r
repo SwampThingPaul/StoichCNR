@@ -15,7 +15,7 @@ dNdt = function(t,y,p){
     algae.graze=phi1*P.pool
     zoo.mort=phi3*Z.pool
     zoo.nut.release=m*Z.pool
-    phyto.uptake=mu*D.pool
+    phyto.uptake=mu*D.pool;#modified/added from original Sterner Eq 1
     
     
     dZ = algae.graze-zoo.nut.release-zoo.mort;#does not account for non-algal foods
