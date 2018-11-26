@@ -35,16 +35,17 @@ Intial parameters
 
 | Parameter | Value | 
 |---|---|
-|Z<sub>x,i=1</sub> | 0 |
-|P<sub>x,i=1</sub> | 0 |
-|D<sub>x,i=1</sub> | 2 |
+|Z<sub>x,i=1</sub> | 0.0 |
+|P<sub>x,i=1</sub> | 0.0 |
+|D<sub>x,i=1</sub> | 2.0 |
 |&phi;<sub>1</sub> (zooplankton grazing rate) | 0.2 |
-|&phi;<sub>2</sub> (resupply) | 1 |
+|&phi;<sub>2</sub> (resupply) | 1.0 |
 |&phi;<sub>3</sub> (zooplankton loss rate) | 0.1 |
 |&mu; (Phytoplankton uptake rate) | 0.1 |
 |*m*<sub>x</sub> (basal metabolic release rate) | 0.1 |
-|*a*<sub>x</sub> (accumulation efficiencies of x) | 0 |
+|*a*<sub>x</sub> (accumulation efficiencies of x) | 0.0 |
 
+Next step is to get more ellaborate with more releastic parameter estimates and moving through the various alternative models outlined by Sterner (1990). 
 
 ***
 
