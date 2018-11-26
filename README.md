@@ -28,7 +28,7 @@ Symbols used, their meanings and dimensions
 ***
 ___Success!!___ Using some very general assumptions (identified below), not accounting for non-algal zooplankton food, non-grazing phytoplankton loss and non-zooplankton nutrient sources (i.e. external sources) for one parameter the model run looks good. 
 
-![eq1_output_example](https://user-images.githubusercontent.com/36565183/49031257-791ac580-f177-11e8-8a59-d0826f83f3e9.png)
+![eq1_output_example_small](https://user-images.githubusercontent.com/36565183/49031858-1e826900-f179-11e8-8658-bed4bc268bfc.png)
 
 
 Intial parameters
