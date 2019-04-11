@@ -1,4 +1,4 @@
-# Consumer Nurtient Recycling Stoichiometry <img src="https://github.com/SwampThingPaul/StoichCNR/blob/754fa810fa32cfa9b566ede872ec8ab3117b5798/hex/CNRModelv2.png" align="right" height = "120"/>
+# Consumer Nurtient Recycling Stoichiometry <img src="https://github.com/SwampThingPaul/StoichCNR/blob/839f888008e36709ede2f6b6bb7f34bd60e63855/hex/CNRModelv2.png" align="right" height = "120"/>
 
 
 An attempt at developing the box model from Sterner (1990) in R 
