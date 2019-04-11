@@ -1,4 +1,6 @@
-# Consumer Nurtient Recycling Stoichiometry
+# Consumer Nurtient Recycling Stoichiometry <img src="https://github.com/SwampThingPaul/StoichCNR/blob/754fa810fa32cfa9b566ede872ec8ab3117b5798/hex/CNRModel.png" align="right" height = "120"/>
+
+
 An attempt at developing the box model from Sterner (1990) in R 
 
 Stener 1990 developed a pool and flux model to evaluate consumer-nutrient recycling in a pelagic setting using a simple (but ellegant) model between dissolved, phytoplankton and zooplankton pools of nutrients.
